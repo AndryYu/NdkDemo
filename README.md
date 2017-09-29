@@ -4,6 +4,7 @@
 * 目的 通过实际操作熟悉在Android studio下NDK开发。如果想详细了解，可以查看我的一篇文章[AndroidStudio下NDK开发流程](http://www.jianshu.com/p/8d22a1075432)
 
 运行效果图
+
 ![运行结果](http://upload-images.jianshu.io/upload_images/5361549-1fb25c5bcd121484.PNG?imageMogr2/auto-orient/strip%7CimageView2/2/w/420)
 
 
